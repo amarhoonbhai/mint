@@ -1,9 +1,10 @@
 # ad_bot/config.py
-BOT_TOKEN = "your_bot_token"
-API_ID = 123456
-API_HASH = "your_api_hash"
-ADMIN_ID = 123456789
-FORCE_CHANNEL = "@YourChannel"
-FORCE_GROUP = "@YourGroup"
-BOT_USERNAME = "@YourBot"
+
+BOT_TOKEN = "7544282169:AAHzdcWOVEVfqeS7q7YT0szI9POBu8tONSc"
+API_ID = 24945402
+API_HASH = "6118e50f5dc4e3a955e50b22cf673ae2"
+ADMIN_ID = 8463150711
+FORCE_CHANNEL = "@LordAdsPro"
+FORCE_GROUP = "@LordAdsGroup"
+BOT_USERNAME = "@LordAdsBot"
 MIN_INTERVAL = 300  # in seconds
